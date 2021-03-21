@@ -17,7 +17,7 @@ WorldEdit is a World Editor for Minecraft Worlds. You can select and area, repla
 
 
 
-With this mod, that is OVER. Well yes, this mod is not dependent on WorldEdit, but the issue written above i got inspired. These useless items that the mod adds actually have a purpose; to not have an use in a no-cheat survival world, therefore you can assign the WorldEdit utilities to these items and just not care about the assigned objects at all if you somehow manage to find them, which if you do, just throw 'em into lava or something.
+With this mod, that is OVER. Well yes, this mod is not dependent on WorldEdit, but the issue written above got me inspired. These useless items that the mod adds actually have a purpose; to not have an use in a no-cheat survival world, therefore you can assign the WorldEdit utilities to these items and just not care about the assigned objects at all if you somehow manage to find them, which if you do, just throw 'em into lava or something.
 This is not only for WorldEdit, though. You can use this with any mod (or plugin if you use a plugin loader on your server (which if that's the case you should want to install the mod somehow too)) with object assignments for utilities.
 
 
