@@ -1,0 +1,3 @@
+rootProject.name = 'wewands'
+
+include 'wewands-common', 'wewands-forge', 'wewands-fabric'
